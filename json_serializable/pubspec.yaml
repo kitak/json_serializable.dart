@@ -8,9 +8,9 @@ environment:
   sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
-  analyzer: '>=0.41.2 <2.0.0'
+  analyzer: '>=0.41.2 <3.0.0'
   build: ^2.0.0
-  build_config: '>=0.4.4 <2.0.0'
+  build_config: '>=0.4.4 <3.0.0'
   collection: ^1.14.0
 
   # Use a tight version constraint to ensure that a constraint on
